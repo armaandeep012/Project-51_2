@@ -1,0 +1,62 @@
+.menu {
+    display: flex;
+    justify-content: space-between;
+    background-color: #003644;
+    padding: 15px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    color: rgb(215, 242, 255);
+    background-color: #d9eff683;
+    border: 3px solid #011414c7;
+    border-radius: 10px;
+}
+
+body {
+    margin: 4px;
+    /* modify background color here*/
+    background-color: #008080;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+}
+
+.bodyimg{
+    border: 3px solid #0a1312dc;
+    background-color: #ffe4df;
+    border-radius: 10px;
+}
+
+.instructions{
+    border: 5px solid #003644;
+    border-radius: 20px;
+    background-color: #e6f8fa;
+    /* modify margin and padding here*/
+    padding: 30px;
+    margin: 25px;
+    width: 1730px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; ;
+}
+
+.grid {
+    border-radius: 30px;
+    border: 5px solid #112e3b;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 30px;
+    font-family: sans-serif;
+}
+
+.grid img {
+    border: 2px solid #1a4c4e;
+    border-radius: 50px;
+}
+
+.origami {
+    border-radius: 20px;
+    background-color: #e6f8fa;
+    /* modify margin and padding here*/
+    padding: 30px;
+    margin: 25px;
+    width: 336px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
